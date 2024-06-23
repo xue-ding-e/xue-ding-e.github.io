@@ -370,7 +370,7 @@ document.onkeydown = function (e) {
         data: function () {
           this.$notify({
             title: "你已被发现😜",
-            message: "你好呀,这里是薛定谔了不养喵！\n乱动F12想干嘛?",
+            message: "你好呀,这里是薛定饿了不养喵！\n乱动F12想干嘛?",
             position: 'top-left',
             offset: 50,
             showClose: true,
@@ -1119,7 +1119,7 @@ function createtime1() {
   var dnum = Math.floor(days);
 
   var ascll = [
-    `欢迎来到薛定谔了不养喵🥝の小家!`,
+    `欢迎来到薛定饿了不养喵🥝の小家!`,
     `Future is now 🍭🍭🍭`,
     `
         
@@ -1136,7 +1136,7 @@ function createtime1() {
     "小站已经苟活",
     dnum,
     "天啦!",
-    "©2022 By 薛定谔了不养喵",
+    "©2022 By 薛定饿了不养喵",
   ];
 
   setTimeout(
@@ -1175,7 +1175,7 @@ function createtime2() {
   setTimeout(
     console.warn.bind(
       console,
-      "%c ⚡ Powered by 薛定谔了不养喵🥝 %c 薛定谔了不养喵🥝の小家",
+      "%c ⚡ Powered by 薛定饿了不养喵🥝 %c 薛定饿了不养喵🥝の小家",
       "color:white; background-color:#f0ad4e",
       ""
     )
@@ -1285,8 +1285,8 @@ function share_() {
   try {
     // 截取标题
     var title = document.title;
-    var subTitle = title.endsWith("| 薛定谔了不养喵🥝") ? title.substring(0, title.length - 14) : title;
-    navigator.clipboard.writeText('薛定谔了不养喵🥝的站内分享\n标题：' + subTitle + '\n链接：' + url + '\n欢迎来访！🍭🍭🍭');
+    var subTitle = title.endsWith("| 薛定饿了不养喵🥝") ? title.substring(0, title.length - 14) : title;
+    navigator.clipboard.writeText('薛定饿了不养喵🥝的站内分享\n标题：' + subTitle + '\n链接：' + url + '\n欢迎来访！🍭🍭🍭');
     new Vue({
       data: function () {
         this.$notify({
@@ -2806,11 +2806,17 @@ function createtime() {
   1 == String(snum).length && (snum = "0" + snum);
   let currentTimeHtml = "";
   (currentTimeHtml =
-    hnum < 18 && hnum >= 9
-      ? `<img class='boardsign' src='https://lskypro.acozycotage.net/Fomalhaut/badge/F小屋-科研摸鱼中.svg' title='什么时候能够实现财富自由呀~'><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" class='fas fa-heartbeat'></i> <br> 旅行者 1 号当前距离地球 ${dis} 千米，约为 ${unit} 个天文单位 🚀</div>`
-      : `<img class='boardsign' src='https://lskypro.acozycotage.net/Fomalhaut/badge/F小屋-下班休息啦.svg' title='下班了就该开开心心地玩耍~'><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" class='fas fa-heartbeat'></i> <br> 旅行者 1 号当前距离地球 ${dis} 千米，约为 ${unit} 个天文单位 🚀</div>`),
-    document.getElementById("workboard") &&
-    (document.getElementById("workboard").innerHTML = currentTimeHtml);
+      hnum < 18 && hnum >= 9
+          ? `<br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" class='fas fa-heartbeat'></i> <br> 旅行者 1 号当前距离地球 ${dis} 千米，约为 ${unit} 个天文单位 🚀</div>`
+          : `<br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" class='fas fa-heartbeat'></i> <br> 旅行者 1 号当前距离地球 ${dis} 千米，约为 ${unit} 个天文单位 🚀</div>`),
+  document.getElementById("workboard") &&
+  (document.getElementById("workboard").innerHTML = currentTimeHtml);
+  // (currentTimeHtml =
+  //   hnum < 18 && hnum >= 9
+  //     ? `<img class='boardsign' src='https://lskypro.acozycotage.net/Fomalhaut/badge/F小屋-科研摸鱼中.svg' title='什么时候能够实现财富自由呀~'><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" class='fas fa-heartbeat'></i> <br> 旅行者 1 号当前距离地球 ${dis} 千米，约为 ${unit} 个天文单位 🚀</div>`
+  //     : `<img class='boardsign' src='https://lskypro.acozycotage.net/Fomalhaut/badge/F小屋-下班休息啦.svg' title='下班了就该开开心心地玩耍~'><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" class='fas fa-heartbeat'></i> <br> 旅行者 1 号当前距离地球 ${dis} 千米，约为 ${unit} 个天文单位 🚀</div>`),
+  //   document.getElementById("workboard") &&
+  //   (document.getElementById("workboard").innerHTML = currentTimeHtml);
 }
 // 设置重复执行函数，周期1000ms
 setInterval(() => {
@@ -3174,14 +3180,26 @@ let unsplash = "url(https://source.unsplash.com/random/1920x1080/)";
 
 // 更换背景(自己的代码)
 if (localStorage.getItem("blogbg") != undefined) {
-  setBg(localStorage.getItem("blogbg"));
+  // setBg(localStorage.getItem("blogbg"));
+  document.getElementById("defineBg").innerText = `:root{
+    --default-bg: url(https://sourcebucket.s3.bitiful.net/img/dark_mode.webp);
+    --darkmode-bg:url(https://sourcebucket.s3.bitiful.net/img/home_bg.webp);
+    --mobileday-bg: url(https://sourcebucket.s3.bitiful.net/img/dark_mode.webp);
+    --mobilenight-bg: url(https://sourcebucket.s3.bitiful.net/img/home_bg.webp);
+  }`;
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/dm14.webp);
-    --darkmode-bg:url(https://lskypro.acozycotage.net/Fomalhaut/img/yuanshen1.webp);
-    --mobileday-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/snow.webp);
-    --mobilenight-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/mb8.webp);
+    --default-bg: url(https://sourcebucket.s3.bitiful.net/img/dark_mode.webp);
+    --darkmode-bg:url(https://sourcebucket.s3.bitiful.net/img/home_bg.webp);
+    --mobileday-bg: url(https://sourcebucket.s3.bitiful.net/img/dark_mode.webp);
+    --mobilenight-bg: url(https://sourcebucket.s3.bitiful.net/img/home_bg.webp);
   }`;
+  // document.getElementById("defineBg").innerText = `:root{
+  //   --default-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/dm14.webp);
+  //   --darkmode-bg:url(https://lskypro.acozycotage.net/Fomalhaut/img/yuanshen1.webp);
+  //   --mobileday-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/snow.webp);
+  //   --mobilenight-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/mb8.webp);
+  // }`;
 }
 // 切换背景主函数
 function changeBg(s) {
@@ -3519,7 +3537,6 @@ function createWinbox() {
 // 恢复默认背景
 function resetBg() {
   localStorage.removeItem('blogbg');
-  resetBg_(),
   reload();
 }
 
@@ -3528,9 +3545,7 @@ function reset() {
   clearItem();
   reload();
 }
-function resetBg_() {
-  document.getElementById("defineBg").innerText = ":root{\n    --default-bg: url(https://sourcebucket.s3.bitiful.net/img/home_bg.webp);\n    --darkmode-bg:url(https://sourcebucket.s3.bitiful.net/img/dark_mode.webp);\n    --mobileday-bg: url(https://sourcebucket.s3.bitiful.net/img/snow.webp);\n    --mobilenight-bg: url(https://sourcebucket.s3.bitiful.net/img/mb8.webp);\n  }"
-}
+
 // 适应窗口大小
 function winResize() {
   try {
