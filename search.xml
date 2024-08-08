@@ -20,9 +20,9 @@
       
         <tags>
             
-            <tag> Hasura </tag>
-            
             <tag> graphsql </tag>
+            
+            <tag> Hasura </tag>
             
             <tag> 权限控制 </tag>
             
@@ -49,11 +49,11 @@
       
         <tags>
             
+            <tag> 解决方案 </tag>
+            
             <tag> 病历本 </tag>
             
             <tag> 问题 </tag>
-            
-            <tag> 解决方案 </tag>
             
         </tags>
       
@@ -78,11 +78,11 @@
       
         <tags>
             
-            <tag> 解决方案 </tag>
-            
             <tag> 文档 </tag>
             
             <tag> 常用 </tag>
+            
+            <tag> 解决方案 </tag>
             
         </tags>
       
@@ -107,9 +107,9 @@
       
         <tags>
             
-            <tag> graphsql </tag>
-            
             <tag> gensql </tag>
+            
+            <tag> graphsql </tag>
             
             <tag> gorm </tag>
             
