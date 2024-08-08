@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xue-ding-e.github.io/posts/uniapp%E5%B8%B8%E7%94%A8.html</loc>
+    
+    <lastmod>2024-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://xue-ding-e.github.io/posts/Hasura.html</loc>
     
     <lastmod>2024-08-08</lastmod>
@@ -221,20 +230,6 @@
   </url>
   
   <url>
-    <loc>https://xue-ding-e.github.io/tags/Hasura/</loc>
-    <lastmod>2024-08-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://xue-ding-e.github.io/tags/%E6%9D%83%E9%99%90%E6%8E%A7%E5%88%B6/</loc>
-    <lastmod>2024-08-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://xue-ding-e.github.io/tags/Markdown/</loc>
     <lastmod>2024-08-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -278,6 +273,27 @@
   
   <url>
     <loc>https://xue-ding-e.github.io/tags/%E9%97%AE%E9%A2%98/</loc>
+    <lastmod>2024-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xue-ding-e.github.io/tags/uniapp/</loc>
+    <lastmod>2024-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xue-ding-e.github.io/tags/Hasura/</loc>
+    <lastmod>2024-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xue-ding-e.github.io/tags/%E6%9D%83%E9%99%90%E6%8E%A7%E5%88%B6/</loc>
     <lastmod>2024-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>uniapp常用</title>
+      <link href="/posts/uniapp%E5%B8%B8%E7%94%A8.html"/>
+      <url>/posts/uniapp%E5%B8%B8%E7%94%A8.html</url>
+      
+        <content type="html"><![CDATA[<h4 id="uni-chooseLocation和uni-getLocation-的区别">uni.chooseLocation和uni.getLocation 的区别</h4><p>uni.chooseLocation</p><p><strong>功能</strong>: 让用户在地图上选择一个位置。</p><p><strong>使用场景</strong>: 当需要用户手动选择一个地理位置时使用，例如选择一个收货地址。</p><p><strong>返回值</strong>: 返回用户选择的地理位置，包括经纬度、地址名称等信息。</p><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">uni.<span class="title function_">chooseLocation</span>(&#123;</span><br><span class="line">    <span class="attr">success</span>: <span class="keyword">function</span> (<span class="params">res</span>) &#123;</span><br><span class="line">        <span class="variable language_">console</span>.<span class="title function_">log</span>(res.<span class="property">name</span>);  <span class="comment">// 位置名称</span></span><br><span class="line">        <span class="variable language_">console</span>.<span class="title function_">log</span>(res.<span class="property">address</span>);  <span class="comment">// 详细地址</span></span><br><span class="line">        <span class="variable language_">console</span>.<span class="title function_">log</span>(res.<span class="property">latitude</span>);  <span class="comment">// 纬度</span></span><br><span class="line">        <span class="variable language_">console</span>.<span class="title function_">log</span>(res.<span class="property">longitude</span>);  <span class="comment">// 经度</span></span><br><span class="line">    &#125;</span><br><span class="line">&#125;);</span><br></pre></td></tr></table></figure><p>uni.getLocation</p><ul><li><p><strong>功能</strong>: 获取当前设备的位置信息。</p></li><li><p><strong>使用场景</strong>: 当需要获取用户当前所在位置时使用，例如打卡功能、获取当前位置的天气等。</p></li><li><p><strong>返回值</strong>: 返回当前设备的经纬度和速度等信息。</p><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">uni.<span class="title function_">getLocation</span>(&#123;</span><br><span class="line">    <span class="attr">type</span>: <span class="string">&#x27;wgs84&#x27;</span>,</span><br><span class="line">    <span class="attr">success</span>: <span class="keyword">function</span> (<span class="params">res</span>) &#123;</span><br><span class="line">        <span class="variable language_">console</span>.<span class="title function_">log</span>(res.<span class="property">latitude</span>);  <span class="comment">// 纬度</span></span><br><span class="line">        <span class="variable language_">console</span>.<span class="title function_">log</span>(res.<span class="property">longitude</span>);  <span class="comment">// 经度</span></span><br><span class="line">        <span class="variable language_">console</span>.<span class="title function_">log</span>(res.<span class="property">speed</span>);  <span class="comment">// 速度</span></span><br><span class="line">        <span class="variable language_">console</span>.<span class="title function_">log</span>(res.<span class="property">accuracy</span>);  <span class="comment">// 位置精度</span></span><br><span class="line">    &#125;</span><br><span class="line">&#125;);</span><br></pre></td></tr></table></figure></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 文档 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 文档 </tag>
+            
+            <tag> uniapp </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hasura</title>
       <link href="/posts/Hasura.html"/>
       <url>/posts/Hasura.html</url>
