@@ -8,7 +8,7 @@
       <link href="/posts/%E5%BE%85%E5%8A%9E%E4%BA%8B%E9%A1%B9(%E4%B8%AA%E4%BA%BA%E5%90%91).html"/>
       <url>/posts/%E5%BE%85%E5%8A%9E%E4%BA%8B%E9%A1%B9(%E4%B8%AA%E4%BA%BA%E5%90%91).html</url>
       
-        <content type="html"><![CDATA[<h4 id="未完成-待办">未完成(待办)</h4><p>gitee/github/亚马逊 搭建图库文档编写</p><p>gva插件雪花算法服务</p><p>gva 支付插件gopay</p><p>jetbrain开发工具配置上传同步</p><h4 id="已完成">已完成</h4>]]></content>
+        <content type="html"><![CDATA[<h4 id="未完成-待办">未完成(待办)</h4><p>gitee/github/亚马逊 搭建图库文档编写</p><p>gva插件雪花算法服务</p><p>gva 支付插件gopay</p><p>jetbrain开发工具配置上传同步(格式化代码)</p><h4 id="已完成">已完成</h4>]]></content>
       
       
       <categories>
@@ -103,9 +103,9 @@
       
         <tags>
             
-            <tag> graphsql </tag>
-            
             <tag> Hasura </tag>
+            
+            <tag> graphsql </tag>
             
             <tag> 权限控制 </tag>
             
@@ -190,9 +190,9 @@
       
         <tags>
             
-            <tag> gensql </tag>
-            
             <tag> graphsql </tag>
+            
+            <tag> gensql </tag>
             
             <tag> gorm </tag>
             
