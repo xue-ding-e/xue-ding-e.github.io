@@ -134,9 +134,9 @@
       
         <tags>
             
-            <tag> Hasura </tag>
-            
             <tag> graphsql </tag>
+            
+            <tag> Hasura </tag>
             
             <tag> 权限控制 </tag>
             
@@ -221,9 +221,9 @@
       
         <tags>
             
-            <tag> graphsql </tag>
-            
             <tag> gensql </tag>
+            
+            <tag> graphsql </tag>
             
             <tag> gorm </tag>
             
