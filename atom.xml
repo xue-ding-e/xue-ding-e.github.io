@@ -6,7 +6,7 @@
   <link href="https://xue-ding-e.github.io/atom.xml" rel="self"/>
   
   <link href="https://xue-ding-e.github.io/"/>
-  <updated>2024-08-15T06:11:56.496Z</updated>
+  <updated>2024-08-15T07:41:24.209Z</updated>
   <id>https://xue-ding-e.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>golang web开发(常用)</title>
+    <link href="https://xue-ding-e.github.io/posts/golang_web%E5%BC%80%E5%8F%91(%E5%B8%B8%E7%94%A8).html"/>
+    <id>https://xue-ding-e.github.io/posts/golang_web%E5%BC%80%E5%8F%91(%E5%B8%B8%E7%94%A8).html</id>
+    <published>2024-08-15T07:38:26.382Z</published>
+    <updated>2024-08-15T07:41:24.209Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="gin">gin</h3><h4 id="绑定参数验证">绑定参数验证</h4><figure class="highlight apache"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="attribute">binding</span>:<span class="string">&quot;required,oneof=0 1 2&quot;</span>`  //在<span class="number">0</span> <span class="number">1</span> <span class="number">2</span></span><br><span class="line"><span class="attribute">binding</span>:<span class="string">&quot;required,gt=0&quot;</span>    //大于<span class="number">0</span></span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+    <summary type="html">🥧golang后端开发中常用常忘记的一些文档记录</summary>
+    
+    
+    
+    <category term="文档" scheme="https://xue-ding-e.github.io/categories/%E6%96%87%E6%A1%A3/"/>
+    
+    
+    <category term="gorm" scheme="https://xue-ding-e.github.io/tags/gorm/"/>
+    
+    <category term="后端" scheme="https://xue-ding-e.github.io/tags/%E5%90%8E%E7%AB%AF/"/>
+    
+    <category term="golang" scheme="https://xue-ding-e.github.io/tags/golang/"/>
+    
+    <category term="gin" scheme="https://xue-ding-e.github.io/tags/gin/"/>
+    
+  </entry>
   
   <entry>
     <title>待办事项(个人向)</title>
@@ -129,11 +156,11 @@
     <category term="文档" scheme="https://xue-ding-e.github.io/categories/%E6%96%87%E6%A1%A3/"/>
     
     
+    <category term="解决方案" scheme="https://xue-ding-e.github.io/tags/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/"/>
+    
     <category term="病历本" scheme="https://xue-ding-e.github.io/tags/%E7%97%85%E5%8E%86%E6%9C%AC/"/>
     
     <category term="问题" scheme="https://xue-ding-e.github.io/tags/%E9%97%AE%E9%A2%98/"/>
-    
-    <category term="解决方案" scheme="https://xue-ding-e.github.io/tags/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/"/>
     
   </entry>
   
@@ -156,9 +183,9 @@
     
     <category term="文档" scheme="https://xue-ding-e.github.io/tags/%E6%96%87%E6%A1%A3/"/>
     
-    <category term="解决方案" scheme="https://xue-ding-e.github.io/tags/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/"/>
-    
     <category term="常用" scheme="https://xue-ding-e.github.io/tags/%E5%B8%B8%E7%94%A8/"/>
+    
+    <category term="解决方案" scheme="https://xue-ding-e.github.io/tags/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/"/>
     
   </entry>
   
