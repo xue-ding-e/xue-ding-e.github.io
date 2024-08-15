@@ -262,20 +262,6 @@
   </url>
   
   <url>
-    <loc>https://xue-ding-e.github.io/tags/uniapp/</loc>
-    <lastmod>2024-08-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://xue-ding-e.github.io/tags/%E6%96%87%E6%A1%A3/</loc>
-    <lastmod>2024-08-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://xue-ding-e.github.io/tags/Hasura/</loc>
     <lastmod>2024-08-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -305,6 +291,13 @@
   
   <url>
     <loc>https://xue-ding-e.github.io/tags/vue/</loc>
+    <lastmod>2024-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xue-ding-e.github.io/tags/%E6%96%87%E6%A1%A3/</loc>
     <lastmod>2024-08-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -347,6 +340,13 @@
   
   <url>
     <loc>https://xue-ding-e.github.io/tags/%E9%97%AE%E9%A2%98/</loc>
+    <lastmod>2024-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xue-ding-e.github.io/tags/uniapp/</loc>
     <lastmod>2024-08-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
