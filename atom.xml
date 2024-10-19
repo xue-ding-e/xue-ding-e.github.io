@@ -158,11 +158,11 @@
     <category term="文档" scheme="https://xue-ding-e.github.io/categories/%E6%96%87%E6%A1%A3/"/>
     
     
-    <category term="解决方案" scheme="https://xue-ding-e.github.io/tags/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/"/>
-    
     <category term="病历本" scheme="https://xue-ding-e.github.io/tags/%E7%97%85%E5%8E%86%E6%9C%AC/"/>
     
     <category term="问题" scheme="https://xue-ding-e.github.io/tags/%E9%97%AE%E9%A2%98/"/>
+    
+    <category term="解决方案" scheme="https://xue-ding-e.github.io/tags/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/"/>
     
   </entry>
   
@@ -185,9 +185,9 @@
     
     <category term="文档" scheme="https://xue-ding-e.github.io/tags/%E6%96%87%E6%A1%A3/"/>
     
-    <category term="常用" scheme="https://xue-ding-e.github.io/tags/%E5%B8%B8%E7%94%A8/"/>
-    
     <category term="解决方案" scheme="https://xue-ding-e.github.io/tags/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/"/>
+    
+    <category term="常用" scheme="https://xue-ding-e.github.io/tags/%E5%B8%B8%E7%94%A8/"/>
     
   </entry>
   
