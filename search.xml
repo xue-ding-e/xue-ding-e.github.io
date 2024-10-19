@@ -20,13 +20,13 @@
       
         <tags>
             
+            <tag> uniapp </tag>
+            
             <tag> 前端 </tag>
             
             <tag> web </tag>
             
             <tag> vue </tag>
-            
-            <tag> uniapp </tag>
             
         </tags>
       
@@ -51,13 +51,13 @@
       
         <tags>
             
-            <tag> gorm </tag>
-            
             <tag> 后端 </tag>
             
             <tag> golang </tag>
             
             <tag> gin </tag>
+            
+            <tag> gorm </tag>
             
         </tags>
       
@@ -136,9 +136,9 @@
       
         <tags>
             
-            <tag> graphsql </tag>
-            
             <tag> Hasura </tag>
+            
+            <tag> graphsql </tag>
             
             <tag> 权限控制 </tag>
             
@@ -153,7 +153,7 @@
       <link href="/posts/%E7%97%85%E5%8E%86%E6%9C%AC_20240727d.html"/>
       <url>/posts/%E7%97%85%E5%8E%86%E6%9C%AC_20240727d.html</url>
       
-        <content type="html"><![CDATA[<h2 id="前端外链B站等其他网页图片">前端外链B站等其他网页图片</h2><p>index.html中加上</p><figure class="highlight abnf"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;meta name<span class="operator">=</span><span class="string">&quot;referrer&quot;</span> content<span class="operator">=</span><span class="string">&quot;no-referrer&quot;</span> /&gt; </span><br></pre></td></tr></table></figure>]]></content>
+        <content type="html"><![CDATA[<h2 id="前端外链B站等其他网页图片">前端外链B站等其他网页图片</h2><p>index.html中加上</p><figure class="highlight abnf"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;meta name<span class="operator">=</span><span class="string">&quot;referrer&quot;</span> content<span class="operator">=</span><span class="string">&quot;no-referrer&quot;</span> /&gt; </span><br></pre></td></tr></table></figure><h2 id="中文路由刷新页面404-vue-router">中文路由刷新页面404(vue router)</h2><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">router.<span class="title function_">beforeEach</span>(<span class="function">(<span class="params">to, <span class="keyword">from</span>, next</span>) =&gt;</span> &#123;</span><br><span class="line">  <span class="keyword">const</span> originalPath = <span class="built_in">decodeURIComponent</span>(to.<span class="property">path</span>);</span><br><span class="line">  <span class="keyword">if</span> (to.<span class="property">path</span> !== originalPath) &#123;</span><br><span class="line">    <span class="title function_">next</span>(&#123; <span class="attr">path</span>: originalPath, <span class="attr">replace</span>: <span class="literal">true</span> &#125;);</span><br><span class="line">  &#125; <span class="keyword">else</span> &#123;</span><br><span class="line">    <span class="title function_">next</span>();</span><br><span class="line">  &#125;</span><br><span class="line">&#125;);</span><br></pre></td></tr></table></figure>]]></content>
       
       
       <categories>
@@ -223,11 +223,11 @@
       
         <tags>
             
-            <tag> gensql </tag>
+            <tag> gorm </tag>
             
             <tag> graphsql </tag>
             
-            <tag> gorm </tag>
+            <tag> gensql </tag>
             
         </tags>
       
