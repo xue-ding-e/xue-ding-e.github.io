@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://xue-ding-e.github.io/posts/%E7%97%85%E5%8E%86%E6%9C%AC_20240727d.html</loc>
-    <lastmod>2024-10-25</lastmod>
-  </url>
-  <url>
-    <loc>https://xue-ding-e.github.io/posts/%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83(%E4%B8%AA%E4%BA%BA%E5%90%91).html</loc>
-    <lastmod>2024-10-25</lastmod>
-  </url>
-  <url>
-    <loc>https://xue-ding-e.github.io/posts/%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80(%E4%B8%AA%E4%BA%BA%E5%90%91).html</loc>
-    <lastmod>2024-10-25</lastmod>
-  </url>
-  <url>
-    <loc>https://xue-ding-e.github.io/posts/%E5%B8%B8%E7%94%A8.html</loc>
+    <loc>https://xue-ding-e.github.io/posts/%E5%BE%85%E5%8A%9E%E4%BA%8B%E9%A1%B9(%E4%B8%AA%E4%BA%BA%E5%90%91).html</loc>
     <lastmod>2024-10-25</lastmod>
   </url>
   <url>
@@ -21,19 +9,15 @@
     <lastmod>2024-10-25</lastmod>
   </url>
   <url>
-    <loc>https://xue-ding-e.github.io/posts/gin-vue-admin(%E4%B8%AA%E4%BA%BA%E5%90%91).html</loc>
+    <loc>https://xue-ding-e.github.io/posts/%E7%97%85%E5%8E%86%E6%9C%AC_20240727d.html</loc>
     <lastmod>2024-10-25</lastmod>
   </url>
   <url>
-    <loc>https://xue-ding-e.github.io/posts/Hasura.html</loc>
+    <loc>https://xue-ding-e.github.io/posts/%E5%B8%B8%E7%94%A8.html</loc>
     <lastmod>2024-10-25</lastmod>
   </url>
   <url>
-    <loc>https://xue-ding-e.github.io/posts/%E5%BE%85%E5%8A%9E%E4%BA%8B%E9%A1%B9(%E4%B8%AA%E4%BA%BA%E5%90%91).html</loc>
-    <lastmod>2024-10-25</lastmod>
-  </url>
-  <url>
-    <loc>https://xue-ding-e.github.io/posts/golang_web%E5%BC%80%E5%8F%91(%E5%B8%B8%E7%94%A8).html</loc>
+    <loc>https://xue-ding-e.github.io/posts/%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80(%E4%B8%AA%E4%BA%BA%E5%90%91).html</loc>
     <lastmod>2024-10-25</lastmod>
   </url>
   <url>
@@ -41,7 +25,23 @@
     <lastmod>2024-10-25</lastmod>
   </url>
   <url>
+    <loc>https://xue-ding-e.github.io/posts/golang_web%E5%BC%80%E5%8F%91(%E5%B8%B8%E7%94%A8).html</loc>
+    <lastmod>2024-10-25</lastmod>
+  </url>
+  <url>
+    <loc>https://xue-ding-e.github.io/posts/Hasura.html</loc>
+    <lastmod>2024-10-25</lastmod>
+  </url>
+  <url>
     <loc>https://xue-ding-e.github.io/posts/gqlgen_20240727d.html</loc>
+    <lastmod>2024-10-25</lastmod>
+  </url>
+  <url>
+    <loc>https://xue-ding-e.github.io/posts/%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83(%E4%B8%AA%E4%BA%BA%E5%90%91).html</loc>
+    <lastmod>2024-10-25</lastmod>
+  </url>
+  <url>
+    <loc>https://xue-ding-e.github.io/posts/gin-vue-admin(%E4%B8%AA%E4%BA%BA%E5%90%91).html</loc>
     <lastmod>2024-10-25</lastmod>
   </url>
   <url>
