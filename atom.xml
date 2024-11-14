@@ -43,7 +43,7 @@
     <link href="https://xue-ding-e.github.io/posts/%E5%BE%85%E5%8A%9E%E4%BA%8B%E9%A1%B9(%E4%B8%AA%E4%BA%BA%E5%90%91).html"/>
     <id>https://xue-ding-e.github.io/posts/%E5%BE%85%E5%8A%9E%E4%BA%8B%E9%A1%B9(%E4%B8%AA%E4%BA%BA%E5%90%91).html</id>
     <published>2024-10-25T16:36:11.690Z</published>
-    <updated>2024-10-25T16:36:38.462Z</updated>
+    <updated>2024-11-14T15:26:20.790Z</updated>
     
     <content type="html"><![CDATA[<h4 id="未完成-待办">未完成(待办)</h4><p>gva插件雪花算法服务 ⍻  ( int64已经调整为uint64 差细节上限 例如node节点等调整)</p><p>gitee/github/亚马逊 搭建图库文档编写  ⍻   (待封装成一个服务 一键启动)</p><p>gva 支付插件gopay( ⍻   配置界面前端)</p><p>jetbrain开发工具配置上传同步(格式化代码)</p><p>uniapp 开发前端封装一个通用的和gva对接</p><p>uniapp  grapsql的http拦截器封装一个通用的</p><p>益值惠公司宣传页面/宣传手册</p><p>搭建golang本地私有仓库中心(⍻   …)</p><p>gva关于我们页面 重新写(改为自己的)</p><p>gva增加一个路由 , 需要登录但不用鉴权的</p><h4 id="已完成">已完成</h4><p>中台 订单 数据库字段status改为order_status  后端字段做对应更改  √</p>]]></content>
     
@@ -205,9 +205,9 @@
     <category term="文档" scheme="https://xue-ding-e.github.io/categories/%E6%96%87%E6%A1%A3/"/>
     
     
-    <category term="Hasura" scheme="https://xue-ding-e.github.io/tags/Hasura/"/>
-    
     <category term="graphsql" scheme="https://xue-ding-e.github.io/tags/graphsql/"/>
+    
+    <category term="Hasura" scheme="https://xue-ding-e.github.io/tags/Hasura/"/>
     
     <category term="权限控制" scheme="https://xue-ding-e.github.io/tags/%E6%9D%83%E9%99%90%E6%8E%A7%E5%88%B6/"/>
     
@@ -293,9 +293,9 @@
     <category term="文档" scheme="https://xue-ding-e.github.io/categories/%E6%96%87%E6%A1%A3/"/>
     
     
-    <category term="graphsql" scheme="https://xue-ding-e.github.io/tags/graphsql/"/>
-    
     <category term="gensql" scheme="https://xue-ding-e.github.io/tags/gensql/"/>
+    
+    <category term="graphsql" scheme="https://xue-ding-e.github.io/tags/graphsql/"/>
     
     <category term="gorm" scheme="https://xue-ding-e.github.io/tags/gorm/"/>
     

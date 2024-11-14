@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xue-ding-e.github.io/posts/%E5%BE%85%E5%8A%9E%E4%BA%8B%E9%A1%B9(%E4%B8%AA%E4%BA%BA%E5%90%91).html</loc>
+    
+    <lastmod>2024-11-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://xue-ding-e.github.io/posts/0.html</loc>
     
     <lastmod>2024-11-14</lastmod>
@@ -14,15 +23,6 @@
     <loc>https://xue-ding-e.github.io/posts/golang_web%E5%BC%80%E5%8F%91(%E5%B8%B8%E7%94%A8).html</loc>
     
     <lastmod>2024-11-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://xue-ding-e.github.io/posts/%E5%BE%85%E5%8A%9E%E4%BA%8B%E9%A1%B9(%E4%B8%AA%E4%BA%BA%E5%90%91).html</loc>
-    
-    <lastmod>2024-10-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -272,7 +272,7 @@
 
   
   <url>
-    <loc>https://xue-ding-e.github.io/tags/Hasura/</loc>
+    <loc>https://xue-ding-e.github.io/tags/gensql/</loc>
     <lastmod>2024-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -286,7 +286,7 @@
   </url>
   
   <url>
-    <loc>https://xue-ding-e.github.io/tags/%E6%9D%83%E9%99%90%E6%8E%A7%E5%88%B6/</loc>
+    <loc>https://xue-ding-e.github.io/tags/gorm/</loc>
     <lastmod>2024-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -307,28 +307,28 @@
   </url>
   
   <url>
-    <loc>https://xue-ding-e.github.io/tags/gensql/</loc>
+    <loc>https://xue-ding-e.github.io/tags/Hasura/</loc>
     <lastmod>2024-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://xue-ding-e.github.io/tags/gorm/</loc>
+    <loc>https://xue-ding-e.github.io/tags/%E6%9D%83%E9%99%90%E6%8E%A7%E5%88%B6/</loc>
     <lastmod>2024-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://xue-ding-e.github.io/tags/uniapp/</loc>
+    <loc>https://xue-ding-e.github.io/tags/gva/</loc>
     <lastmod>2024-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://xue-ding-e.github.io/tags/%E6%96%87%E6%A1%A3/</loc>
+    <loc>https://xue-ding-e.github.io/tags/gin-vue-admin/</loc>
     <lastmod>2024-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -356,6 +356,20 @@
   </url>
   
   <url>
+    <loc>https://xue-ding-e.github.io/tags/uniapp/</loc>
+    <lastmod>2024-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xue-ding-e.github.io/tags/%E6%96%87%E6%A1%A3/</loc>
+    <lastmod>2024-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://xue-ding-e.github.io/tags/%E5%89%8D%E7%AB%AF/</loc>
     <lastmod>2024-11-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -377,34 +391,6 @@
   </url>
   
   <url>
-    <loc>https://xue-ding-e.github.io/tags/gva/</loc>
-    <lastmod>2024-11-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://xue-ding-e.github.io/tags/gin-vue-admin/</loc>
-    <lastmod>2024-11-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://xue-ding-e.github.io/tags/%E4%B8%AA%E4%BA%BA%E5%90%91/</loc>
-    <lastmod>2024-11-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://xue-ding-e.github.io/tags/%E5%BE%85%E5%8A%9E/</loc>
-    <lastmod>2024-11-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://xue-ding-e.github.io/tags/%E5%B8%B8%E7%94%A8/</loc>
     <lastmod>2024-11-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -420,6 +406,20 @@
   
   <url>
     <loc>https://xue-ding-e.github.io/tags/%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83/</loc>
+    <lastmod>2024-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xue-ding-e.github.io/tags/%E4%B8%AA%E4%BA%BA%E5%90%91/</loc>
+    <lastmod>2024-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xue-ding-e.github.io/tags/%E5%BE%85%E5%8A%9E/</loc>
     <lastmod>2024-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
