@@ -6,7 +6,7 @@
   <link href="https://xue-ding-e.github.io/atom.xml" rel="self"/>
   
   <link href="https://xue-ding-e.github.io/"/>
-  <updated>2024-10-31T13:03:34.074Z</updated>
+  <updated>2024-11-14T15:22:48.493Z</updated>
   <id>https://xue-ding-e.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://xue-ding-e.github.io/posts/0.html"/>
     <id>https://xue-ding-e.github.io/posts/0.html</id>
     <published>2024-10-30T11:10:16.212Z</published>
-    <updated>2024-10-31T13:03:34.074Z</updated>
+    <updated>2024-11-14T15:22:48.493Z</updated>
     
     <content type="html"><![CDATA[<h2 id="AT指令">AT指令</h2><p><code>AT</code>开头，后跟具体的命令和参数，最后以回车符结束(COMMAND)</p><figure class="highlight routeros"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">AT+<span class="attribute">COMMAND</span>=&lt;parameter&gt;\r</span><br></pre></td></tr></table></figure><p>测试命令</p><figure class="highlight routeros"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">AT+<span class="attribute">COMMAND</span>=?</span><br></pre></td></tr></table></figure><p>查询</p><figure class="highlight ada"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">AT</span>+COMMAND?</span><br></pre></td></tr></table></figure><p>设置</p><figure class="highlight routeros"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">AT+<span class="attribute">COMMAND</span>=&lt;value&gt;</span><br></pre></td></tr></table></figure><p>执行命令</p><figure class="highlight ada"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">AT</span>+COMMAND</span><br></pre></td></tr></table></figure><figure class="highlight ada"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">AT</span>+MQTTCONN=<span class="number">0</span>,<span class="string">&quot;ip地址或者域名&quot;</span>,端口号,,<span class="string">&quot;&quot;</span></span><br></pre></td></tr></table></figure><p>AT+MQTTCONN=?,客户端标识符,ip地址,端口,登录用户名,登录密码,客户端状态</p><p>例如</p><figure class="highlight apache"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="attribute">AT</span>+MQTTCONN=<span class="number">5</span>,<span class="string">&quot;101.132.76.212&quot;</span>,<span class="number">1883</span>,<span class="string">&quot;716335458&quot;</span>,<span class="string">&quot;425089&quot;</span>,<span class="string">&quot;SnMHaAOMCbQD90eADEGpMBPu8pI=</span></span><br></pre></td></tr></table></figure><h3 id="断开连接">断开连接</h3><figure class="highlight routeros"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">AT+<span class="attribute">MQTTDISC</span>=0 </span><br></pre></td></tr></table></figure><p>订阅主题</p><figure class="highlight 1c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">AT<span class="punctuation">+</span>MQTTSUB<span class="punctuation">=</span><span class="number">0</span><span class="punctuation">,</span><span class="string">&quot;world&quot;</span><span class="punctuation">,</span><span class="number">1</span><span class="punctuation">,</span><span class="string">&quot;hello&quot;</span><span class="punctuation">,</span><span class="number">2</span></span><br><span class="line"><span class="comment">//订阅主题</span></span><br></pre></td></tr></table></figure>]]></content>
     
@@ -205,9 +205,9 @@
     <category term="文档" scheme="https://xue-ding-e.github.io/categories/%E6%96%87%E6%A1%A3/"/>
     
     
-    <category term="graphsql" scheme="https://xue-ding-e.github.io/tags/graphsql/"/>
-    
     <category term="Hasura" scheme="https://xue-ding-e.github.io/tags/Hasura/"/>
+    
+    <category term="graphsql" scheme="https://xue-ding-e.github.io/tags/graphsql/"/>
     
     <category term="权限控制" scheme="https://xue-ding-e.github.io/tags/%E6%9D%83%E9%99%90%E6%8E%A7%E5%88%B6/"/>
     
@@ -293,9 +293,9 @@
     <category term="文档" scheme="https://xue-ding-e.github.io/categories/%E6%96%87%E6%A1%A3/"/>
     
     
-    <category term="gensql" scheme="https://xue-ding-e.github.io/tags/gensql/"/>
-    
     <category term="graphsql" scheme="https://xue-ding-e.github.io/tags/graphsql/"/>
+    
+    <category term="gensql" scheme="https://xue-ding-e.github.io/tags/gensql/"/>
     
     <category term="gorm" scheme="https://xue-ding-e.github.io/tags/gorm/"/>
     
