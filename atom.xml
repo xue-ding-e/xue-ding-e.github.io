@@ -33,13 +33,13 @@
     <category term="文档" scheme="https://xue-ding-e.github.io/categories/%E6%96%87%E6%A1%A3/"/>
     
     
+    <category term="gorm" scheme="https://xue-ding-e.github.io/tags/gorm/"/>
+    
     <category term="后端" scheme="https://xue-ding-e.github.io/tags/%E5%90%8E%E7%AB%AF/"/>
     
     <category term="golang" scheme="https://xue-ding-e.github.io/tags/golang/"/>
     
     <category term="gin" scheme="https://xue-ding-e.github.io/tags/gin/"/>
-    
-    <category term="gorm" scheme="https://xue-ding-e.github.io/tags/gorm/"/>
     
   </entry>
   
@@ -208,9 +208,9 @@
     <category term="文档" scheme="https://xue-ding-e.github.io/categories/%E6%96%87%E6%A1%A3/"/>
     
     
-    <category term="Hasura" scheme="https://xue-ding-e.github.io/tags/Hasura/"/>
-    
     <category term="graphql" scheme="https://xue-ding-e.github.io/tags/graphql/"/>
+    
+    <category term="Hasura" scheme="https://xue-ding-e.github.io/tags/Hasura/"/>
     
     <category term="权限控制" scheme="https://xue-ding-e.github.io/tags/%E6%9D%83%E9%99%90%E6%8E%A7%E5%88%B6/"/>
     
@@ -233,11 +233,11 @@
     <category term="文档" scheme="https://xue-ding-e.github.io/categories/%E6%96%87%E6%A1%A3/"/>
     
     
+    <category term="gensql" scheme="https://xue-ding-e.github.io/tags/gensql/"/>
+    
     <category term="graphql" scheme="https://xue-ding-e.github.io/tags/graphql/"/>
     
     <category term="gorm" scheme="https://xue-ding-e.github.io/tags/gorm/"/>
-    
-    <category term="gensql" scheme="https://xue-ding-e.github.io/tags/gensql/"/>
     
   </entry>
   

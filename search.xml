@@ -20,13 +20,13 @@
       
         <tags>
             
+            <tag> gorm </tag>
+            
             <tag> 后端 </tag>
             
             <tag> golang </tag>
             
             <tag> gin </tag>
-            
-            <tag> gorm </tag>
             
         </tags>
       
@@ -223,9 +223,9 @@
       
         <tags>
             
-            <tag> Hasura </tag>
-            
             <tag> graphql </tag>
+            
+            <tag> Hasura </tag>
             
             <tag> 权限控制 </tag>
             
@@ -252,11 +252,11 @@
       
         <tags>
             
+            <tag> gensql </tag>
+            
             <tag> graphql </tag>
             
             <tag> gorm </tag>
-            
-            <tag> gensql </tag>
             
         </tags>
       
