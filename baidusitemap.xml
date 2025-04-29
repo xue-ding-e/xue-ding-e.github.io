@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://xue-ding-e.github.io/posts/%E8%BF%81%E7%A7%BB%E9%83%A8%E7%BD%B2.html</loc>
+    <lastmod>2025-04-29</lastmod>
+  </url>
+  <url>
     <loc>https://xue-ding-e.github.io/posts/Hasura.html</loc>
+    <lastmod>2025-04-29</lastmod>
+  </url>
+  <url>
+    <loc>https://xue-ding-e.github.io/posts/gqlgen_20240727d.html</loc>
+    <lastmod>2025-04-29</lastmod>
+  </url>
+  <url>
+    <loc>https://xue-ding-e.github.io/posts/%E5%B8%B8%E7%94%A8.html</loc>
     <lastmod>2025-04-27</lastmod>
   </url>
   <url>
@@ -13,19 +25,11 @@
     <lastmod>2025-04-27</lastmod>
   </url>
   <url>
-    <loc>https://xue-ding-e.github.io/posts/%E5%B8%B8%E7%94%A8.html</loc>
-    <lastmod>2025-04-27</lastmod>
-  </url>
-  <url>
     <loc>https://xue-ding-e.github.io/posts/uniapp%E5%B8%B8%E7%94%A8.html</loc>
     <lastmod>2025-04-27</lastmod>
   </url>
   <url>
     <loc>https://xue-ding-e.github.io/posts/%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80(%E4%B8%AA%E4%BA%BA%E5%90%91).html</loc>
-    <lastmod>2025-04-27</lastmod>
-  </url>
-  <url>
-    <loc>https://xue-ding-e.github.io/posts/gqlgen_20240727d.html</loc>
     <lastmod>2025-04-27</lastmod>
   </url>
   <url>
